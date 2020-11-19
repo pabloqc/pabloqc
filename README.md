@@ -35,5 +35,5 @@ And on the side, practicing handstands🤸🏼, cycling🚴🏼‍♂️, climbi
 <br/><br/>
 
 ### Find me elsewhere 🌎
-<a href="https://www.linkedin.com/in/pabloqc"> <img src="linkedin-icon.png" width="6%"></a>
-<a href="https://www.strava.com/athletes/pabloqc"> <img src="strava-icon.png" width="6%"></a>
+<a href="https://www.linkedin.com/in/pabloqc"> <img src="linkedin-icon.png" width="5%"></a>
+<a href="https://www.strava.com/athletes/pabloqc"> <img src="strava-icon.png" width="5%"></a>
