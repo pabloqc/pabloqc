@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/pabloqc/pabloqc/main/wave.gif" width="30px"> Hi there, I'm Pablo Quesada
+### <img src="wave.gif" width="30px"> Hi there, I'm Pablo Quesada
 
 
 I work as a ~~Software Engineer~~ Program Manager based in Berlin, Germany.
