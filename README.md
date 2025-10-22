@@ -7,7 +7,7 @@ Since 2006 I've been doing software engineering. I've had the chance to work in 
 <br/><br/>
 ### What I'm focusing on 👨🏽‍💻
 
-Currently working as an Director of Engineering at SoundCloud.<br />
+Currently working as an Head of Cloud at Eventim.<br />
 And on the side, mainly in the swimming pool🏊, cycling🚴🏼‍♂️ and climbing🧗🏼‍♂️.
 <br/><br/>
 
